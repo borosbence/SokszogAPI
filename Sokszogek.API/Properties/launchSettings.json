@@ -19,7 +19,7 @@
     },
     "Sokszogek.API": {
       "commandName": "Project",
-      "launchUrl": "api/Negyzet/Kerulet/1",
+      "launchUrl": "api/Negyzet/Kerulet?oldalA=4",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
