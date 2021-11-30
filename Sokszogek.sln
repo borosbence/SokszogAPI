@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sokszogek.Models", "Sokszogek.Models\Sokszogek.Models.csproj", "{4AB00E30-8498-4AD7-B49E-BB7AAD7A4E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sokszogek.API", "Sokszogek.API\Sokszogek.API.csproj", "{6208339C-9839-4DCA-987F-DD9F1CAF86B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB00E30-8498-4AD7-B49E-BB7AAD7A4E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB00E30-8498-4AD7-B49E-BB7AAD7A4E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB00E30-8498-4AD7-B49E-BB7AAD7A4E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB00E30-8498-4AD7-B49E-BB7AAD7A4E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6208339C-9839-4DCA-987F-DD9F1CAF86B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6208339C-9839-4DCA-987F-DD9F1CAF86B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6208339C-9839-4DCA-987F-DD9F1CAF86B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6208339C-9839-4DCA-987F-DD9F1CAF86B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875D7E85-F69C-422A-BCD7-3D472696DD7D}
+	EndGlobalSection
+EndGlobal
