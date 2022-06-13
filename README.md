@@ -1,4 +1,4 @@
-# SokszogAPI
+# Sokszog API
 **Feladat ismertetése:**
 
 A SokszogAPI projektben nyissa meg a *NegyzetController* osztályt!
