@@ -1,6 +1,6 @@
 ﻿namespace Sokszogek.Models
 {
-    public class Teglalap : Sokszog
+    public class Teglalap : Negyzet
     {
         public double OldalB { get; set; }
         public Teglalap(double A, double B) : base(A)
