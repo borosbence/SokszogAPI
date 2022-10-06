@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "01ee5430-3e29-4125-b02a-68b36a258351",
+		"_postman_id": "3ff6ec60-9482-4a7e-aa08-f4bbe4c52098",
 		"name": "Sokszogek",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -46,6 +46,32 @@
 					"response": []
 				}
 			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "localhost",
+			"value": "http://localhost:5000/api"
 		}
 	]
 }
